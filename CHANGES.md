@@ -6,6 +6,8 @@
   mln, or mmkdir
 - joyent/node-manta#329 Refactor all commands to use common option parsing code
 - joyent/node-manta#343 Add `mjob wait` as an alias to `mjob watch`.
+- add "msign -s" argument to shorten signed urls using the http://i.no.de
+  service.
 
 ## 5.1.1
 
