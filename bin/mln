@@ -5,7 +5,7 @@
  */
 
 var fs = require('fs');
-var path = require('path-platform');
+var path = require('path');
 var url = require('url');
 
 var bunyan = require('bunyan');

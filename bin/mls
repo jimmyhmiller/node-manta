@@ -3,7 +3,7 @@
  * Copyright 2018 Joyent, Inc.
  */
 
-var path = require('path-platform');
+var path = require('path');
 var url = require('url');
 
 var assert = require('assert-plus');
